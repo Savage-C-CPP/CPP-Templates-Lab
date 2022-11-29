@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wvovaw/Documents/Studwork/Niyaz/lr3/build",
+  "command": "/bin/c++  -I/home/wvovaw/Documents/Studwork/Niyaz/lr3/include -g -std=gnu++17 -o CMakeFiles/lr2.dir/src/main.cpp.o -c /home/wvovaw/Documents/Studwork/Niyaz/lr3/src/main.cpp",
+  "file": "/home/wvovaw/Documents/Studwork/Niyaz/lr3/src/main.cpp"
+}
+]

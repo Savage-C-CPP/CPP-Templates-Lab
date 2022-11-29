@@ -1,0 +1,3 @@
+/home/wvovaw/Documents/Studwork/Niyaz/lr3/build/CMakeFiles/rebuild_cache.dir
+/home/wvovaw/Documents/Studwork/Niyaz/lr3/build/CMakeFiles/edit_cache.dir
+/home/wvovaw/Documents/Studwork/Niyaz/lr3/build/CMakeFiles/lr2.dir
